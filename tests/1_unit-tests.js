@@ -61,6 +61,7 @@ suite('Unit Tests', () => {
     test('Unknown Unit Input', done => {
       const input = '10pounds';
       assert.equal(convertHandler.getUnit(input), 'invalid unit');
+      done();
     });
   });
   
