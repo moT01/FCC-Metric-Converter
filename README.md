@@ -1,5 +1,5 @@
 ## FCC-Metric-Converter
-##### Drum Machine project for [freeCodeCamp](https://freecodecamp.org/)
+##### Metric Imperial Converter project for [freeCodeCamp](https://freecodecamp.org/)
 ##### Check it out [here](https://fcc-metric-convert.glitch.me/)
 
 <br/>
